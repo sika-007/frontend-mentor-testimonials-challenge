@@ -31,7 +31,7 @@ h4, p {
 }
 .image-info {
   display: flex;
-  align-items: centr;
+  align-items: center;
   margin-bottom: 20px;
 }
 .img {
@@ -81,7 +81,7 @@ h4, p {
   font-size: 1.55rem;
 }
 .image-info + p + p {
-  line-height: 1.25rem;
+  line-height: 1.2rem;
 }
 h4 + p {
   opacity: 0.5;
@@ -93,10 +93,10 @@ h4 {
   font-weight: 500;
 }
 
-@media only screen and (min-width: 1380px) {
+@media only screen and (min-width: 1340px) {
   .main-container{
     display: flex;
-    width: 1400px;
+    width: 1350px;
     height: 750px;
   }
  
