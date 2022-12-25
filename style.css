@@ -85,7 +85,7 @@ h4, p {
 }
 h4 + p {
   opacity: 0.5;
-  line-height: 1.35rem;
+  line-height: 1.2rem;
   font-size: 0.8rem;
 }
 h4 {
@@ -93,10 +93,10 @@ h4 {
   font-weight: 500;
 }
 
-@media only screen and (min-width: 1350px) {
+@media only screen and (min-width: 1340px) {
   .main-container{
     display: flex;
-    width: 1400px;
+    width: 1350px;
     height: 750px;
   }
  
